@@ -23,7 +23,8 @@
     * take all skills from previous csv(skills_with_json1.csv)
     * then generated new skills from model(getting nearest similar words to each skill)
     * then combined the previous json and new json which has new skills
-    * ![image](https://github.com/Hemasundher/Resume-Matching-with-Job-Descriptions-Using-pdf-resumes/assets/89529752/120ab646-a34d-42ba-a036-67a0c8ce2cd9)
+    * ![image](https://github.com/Hemasundher/Resume-Matching-with-Job-Descriptions-Using-pdf-resumes/assets/89529752/3bec7b9b-e5d8-4a8c-b01b-c394d295a8f1)
+
 
 
 
