@@ -77,7 +77,7 @@
 ##### Note:
 some files are large in size so uploaded it to drive and added the link
 
-some Challenges : mentiones - [here ](https://github.com/Hemasundher/Resume-Matching-with-Job-Descriptions-Using-pdf-resumes/blob/main/challenges.pdf)
+some Challenges : explained - [here ](https://github.com/Hemasundher/Resume-Matching-with-Job-Descriptions-Using-pdf-resumes/blob/main/challenges.pdf)
 
 
 send a mail for any query.[Send Email](mailto:hemasundheraluru@gmail.com)
